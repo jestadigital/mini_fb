@@ -24,7 +24,7 @@ module MiniFB
 
     # Global constants
     FB_URL = "http://api.facebook.com/restserver.php"
-    FB_API_VERSION = "1.0"
+    FB_API_VERSION = "2.0"
 
     @@logging = false
     @@log = Logger.new(STDOUT)

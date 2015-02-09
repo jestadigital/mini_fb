@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = "mini_fb"
-  s.version = "2.0.0"
+  s.version = "2.1.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Travis Reeder"]
@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
   s.files = [
     "lib/mini_fb.rb"
   ]
-  s.homepage = "http://github.com/appoxy/mini_fb"
+  s.homepage = "https://github.com/jestadigital/mini_fb"
   s.require_paths = ["lib"]
   s.rubygems_version = "1.8.25"
   s.summary = "Tiny facebook library"
